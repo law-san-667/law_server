@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.example.zeinamobileclient",
+            "sha256_cert_fingerprints": [
+                "48:FF:86:66:E5:F8:BE:13:9D:2E:6E:E9:8F:5E:74:F5:90:B2:66:C4:D5:5E:89:7E:73:BE:D8:E3:DA:48:DD:17"
+            ]
+        }
+    }
+]
